@@ -4,4 +4,4 @@ i made this because i was playing hit fnafb fangame [tngau](https://gamejolt.com
 probably hacky and bad i barely tested it but it seemed to work well enough<br />
 stuff changed is around award_trophy if you want to see<br />
 original script from [here](https://gamejolt.com/f/gamejolt-achievement-api-for-rpg-maker-vx-ace-beta/5070)<br />
-note for checking if your game has said lagspikes: the lagspike gets more and more noticable the further down the trophy list the trophy is
+note for checking if your game has said lagspikes: the lagspike gets more and more noticable the further down the trophy list the trophy is. this makes no sense whatsoever and i don't know why it's like that
